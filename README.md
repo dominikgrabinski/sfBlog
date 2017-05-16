@@ -1,4 +1,4 @@
 sfBlog
 ======
 
-A Symfony project created on April 20, 2017, 6:57 pm.
+add 5 bundles: FOSUser, Faker, EasyAdmin, Doctrine fixtures and paginator and clear cache
