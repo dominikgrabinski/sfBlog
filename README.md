@@ -6,3 +6,4 @@ sfBlog
  - add random Posts By Faker
  - add pages by Paginator
  - add Bootstrap to base.twig.html and to paginator
+ - add comment as logged User
