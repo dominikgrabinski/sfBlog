@@ -7,3 +7,4 @@ sfBlog
  - add pages by Paginator
  - add Bootstrap to base.twig.html and to paginator
  - add comment as logged User
+ - add Admin by easyAdminBundle

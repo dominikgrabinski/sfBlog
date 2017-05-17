@@ -86,3 +86,8 @@ fos_user:
     from_email:
         address: "x@x.pl"
         sender_name: "x"       
+
+easy_admin:
+    entities:
+        - AppBundle\Entity\Post
+        - AppBundle\Entity\Comment
